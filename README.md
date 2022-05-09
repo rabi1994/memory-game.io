@@ -1,6 +1,5 @@
 # Memory Game Project : Html ,Css, JavaScript 
 id:312327331 Rabi Rabi
-id:312273667 Ben Bronstein
 
 ## Reference
 
