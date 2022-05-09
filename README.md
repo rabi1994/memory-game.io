@@ -1,6 +1,5 @@
 # Memory Game Project : Html ,Css, JavaScript 
-id:312327331 Rabi Rabi
-
+click the website and try it out!
 ## Reference
 
 JavaScript | MDN https://developer.mozilla.org/bm/docs/Web/JavaScript
